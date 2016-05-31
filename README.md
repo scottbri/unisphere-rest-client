@@ -1,2 +1,2 @@
 # unisphere-rest-client
-This project has been renamed PyMAX   https://github.com/scottbri/PyMAX
+This project has been renamed PyVMAX   https://github.com/scottbri/PyVMAX
